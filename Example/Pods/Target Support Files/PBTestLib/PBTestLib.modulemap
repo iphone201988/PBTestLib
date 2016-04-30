@@ -1,0 +1,6 @@
+framework module PBTestLib {
+  umbrella header "PBTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

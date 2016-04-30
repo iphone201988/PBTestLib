@@ -1,0 +1,6 @@
+framework module Pods_PBTestLib_Example {
+  umbrella header "Pods-PBTestLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

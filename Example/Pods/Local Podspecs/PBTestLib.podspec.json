@@ -1,0 +1,19 @@
+{
+  "name": "PBTestLib",
+  "version": "0.1.0",
+  "summary": "What does it do? Why did you write it? What is the focus? What does it do? Why did you write it? What is the focus?",
+  "description": "What does it do? Why did you write it? What is the focus? What does it do? Why did you write it? What is the focus? What does it do? Why did you write it? What is the focus? What does it do? Why did you write it? What is the focus?",
+  "homepage": "https://github.com/MyroMac",
+  "license": "MIT",
+  "authors": {
+    "MyroMac": "michaelrobert.macatangay@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/MyroMac/PBTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PBTestLib/Classes/**/*"
+}
