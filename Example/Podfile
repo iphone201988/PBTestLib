@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'PBTestLib_Example', :exclusive => true do
+  pod 'PBTestLib', :path => '../'
+end
+
+target 'PBTestLib_Tests', :exclusive => true do
+  pod 'PBTestLib', :path => '../'
+
+  pod 'Kiwi'
+  pod 'FBSnapshotTestCase'
+end
